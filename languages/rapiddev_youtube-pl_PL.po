@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Preloader Pro\n"
+"POT-Creation-Date: 2018-05-17 14:00+0200\n"
+"PO-Revision-Date: 2018-05-17 14:00+0200\n"
+"Last-Translator: \n"
+"Language-Team: RapidDev <kontakt@rapiddev.pl>\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: assets/settings.php:25 assets/settings.php:203
+msgid "Admin widget"
+msgstr "Widget administratora"
+
+#: assets/settings.php:36 assets/widgets.php:47 assets/widgets.php:98
+msgid "API Key"
+msgstr "Klucz API"
+
+#: assets/settings.php:47 assets/widgets.php:47 assets/widgets.php:98
+#: assets/widgets.php:148
+msgid "Channel ID"
+msgstr "ID Kanału"
+
+#: assets/settings.php:63 rapiddev_youtube.php:125
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: assets/settings.php:78
+msgid "Enabled"
+msgstr "Włączony"
+
+#: assets/settings.php:79
+msgid "Disabled"
+msgstr "Wyłączony"
+
+#: assets/settings.php:141 assets/settings.php:155 assets/settings.php:169
+msgid "Check the configuration"
+msgstr "Sprawdź konfigurację"
+
+#: assets/settings.php:143
+msgid "Subscribtions live"
+msgstr "Subskrypcje na żywo"
+
+#: assets/settings.php:157
+msgid "Total views"
+msgstr "Wyświetlenia łącznie"
+
+#: assets/settings.php:171
+msgid "Videos"
+msgstr "Filmy"
+
+#: assets/settings.php:183
+msgid "You like our plugins?"
+msgstr "Lubisz nasze wtyczki?"
+
+#: assets/settings.php:185
+msgid "See our framework"
+msgstr "Zobacz nasz framework"
+
+#: assets/settings.php:193
+msgid "Use functionality"
+msgstr "Wykorzystaj funkcjonalności"
+
+#: assets/settings.php:195
+msgid "Site widgets"
+msgstr "Widgety na stronie"
+
+#: assets/settings.php:196
+msgid "Use one of the few widgets available for your website"
+msgstr "Użyj jednego z dostępnych dla Twojej strony widgetów"
+
+#: assets/settings.php:198 assets/widgets.php:80
+msgid "Latest movies"
+msgstr "Najnowsze filmy"
+
+#: assets/settings.php:199 assets/widgets.php:23
+msgid "Live broadcasts"
+msgstr "Transmisje na żywo"
+
+#: assets/settings.php:200 assets/widgets.php:131
+msgid "Subscribe channel"
+msgstr "Subskrybuj kanał"
+
+#: assets/settings.php:202
+msgid "Go to the widgets now"
+msgstr "Przejdź do widgetów teraz"
+
+#: assets/settings.php:204
+msgid ""
+"If you check the 'Admin Widget' option, a widget with the current number of "
+"subscribers will be displayed on the main page of your cockpit every 5 "
+"seconds"
+msgstr ""
+"Jeśli zaznaczysz opcję 'Widget Adminsitratora', widget z aktualną liczbą "
+"subskrybentów pojawi się na stronie głównej kokpitu i będzie odświeżał się "
+"co 5 sekund"
+
+#: assets/settings.php:206
+msgid "To get your own API key, go to the Google developer site."
+msgstr "Aby otrzymać swój klucz API, przejdź na stronę deweloperów Google."
+
+#: assets/settings.php:206
+msgid "Generate your API key, then paste it in the settings next to it"
+msgstr "Wygeneruj swój klucz API, a następnie wklej go w polu ustawień obok"
+
+#: assets/settings.php:219
+msgid "Save settings"
+msgstr "Zapisz ustawienia"
+
+#: assets/settings.php:226
+msgid ""
+"This plugin is not an official plugin created by YouTube. The YouTube name "
+"is owned by Google INC. and is used to facilitate identification"
+msgstr ""
+"Ta wtyczka nie jest oficjalną wtyczką stworzoną przez YouTube. Nazwa YouTube "
+"jest własnością Google INC. i służy do ułatwienia identyfikacji"
+
+#: assets/widgets.php:24
+msgid "Notify the user about your live broadcast"
+msgstr "Powiadom użytkowników o Twojej najnowszej transmisji"
+
+#: assets/widgets.php:43
+msgid "Live stream"
+msgstr "Transmisja na żywo"
+
+#: assets/widgets.php:47 assets/widgets.php:98 assets/widgets.php:148
+msgid "Title:"
+msgstr "Tytuł:"
+
+#: assets/widgets.php:64
+msgid "An error occurred while getting the broadcast"
+msgstr "Wystąpił błąd podczas pobierania transmisji na żywo"
+
+#: assets/widgets.php:64
+msgid "Watch YouTube broadcast now"
+msgstr "Zobacz teraz transmisję na żywo z YouTube"
+
+#: assets/widgets.php:64
+msgid "See previous YouTube broadcast"
+msgstr "Zobacz poprzednią transmisję na żywo z YouTube"
+
+#: assets/widgets.php:81
+msgid "Show information about the latest movie"
+msgstr "Pokaż informację o najnowszym filmie"
+
+#: assets/widgets.php:94
+msgid "Latest video"
+msgstr "Najnowszy film"
+
+#: assets/widgets.php:115
+msgid "An error occurred while getting the latest movie"
+msgstr "Wystąpił błąd podczas pobierania najnowszego filmu"
+
+#: assets/widgets.php:115
+msgid "See the latest YouTube video"
+msgstr "Zobacz najnowszy film z YouTube"
+
+#: assets/widgets.php:132
+msgid "Encourage users to subscribe to your channel"
+msgstr "Zachęć użytkowników do zasubskrybowania Twojego kanału"
+
+#: assets/widgets.php:145
+msgid "Subscribe us"
+msgstr "Subskrybuj nas"
+
+#: rapiddev_youtube.php:74
+msgid "Loading..."
+msgstr "Ładowanie..."
+
+#: rapiddev_youtube.php:77
+msgid "YouTube Subscribtions"
+msgstr "Subskrypcje YouTube"
+
+#: rapiddev_youtube.php:103 rapiddev_youtube.php:115
+msgid "CRITICAL ERROR"
+msgstr "BŁĄD KRYTYCZNY"
+
+#: rapiddev_youtube.php:103 rapiddev_youtube.php:115
+msgid "The"
+msgstr ""
+
+#: rapiddev_youtube.php:103 rapiddev_youtube.php:115
+msgid "requires at least"
+msgstr "wymaga conajmniej"
+
+#: rapiddev_youtube.php:103
+msgid "You need to update your WordPress site"
+msgstr "Musisz zaktualizować swoją stronę WordPress"
+
+#: rapiddev_youtube.php:103 rapiddev_youtube.php:115
+msgid "ERROR ID"
+msgstr "ID BŁĘDU"
+
+#: rapiddev_youtube.php:115
+msgid "You need to update your server"
+msgstr "Musisz zaktualizować swój serwer"
+
+#: rapiddev_youtube.php:126
+msgid "Spectrum Pro"
+msgstr ""
+
+#~ msgid "Go to PRO"
+#~ msgstr "Przejdź na PRO"
+
+#~ msgid "Get Spectrum Pro"
+#~ msgstr "Zobacz Spectrum Pro"
+
+#~ msgid "At the moment we do not run any live broadcast"
+#~ msgstr "Na tę chwilę nie prowadzimy transmisji na żywo"
